@@ -1,6 +1,7 @@
 # Configuration
 
 ### Changing the Verification Code
+###### Remember that you must unzip the file to be able to change the password.
 - To change the verification code, edit [verify_process.mcfunction](data/pack/function/verify_process.mcfunction).
 Modify lines 4 and 7 as needed.
 The current code is `7326742`.
@@ -17,7 +18,11 @@ The current spawn point is at `0 100 0`.
 ```
 /scoreboard players reset <username> verified
 ```
-and restart the server
+and restart the server.
+- Or the pro tips ban them by run the following command:
+```
+/ban <username>
+```
 
 ### Useless Details
 * Pack format: 48 (Minecraft 1.21.10)
