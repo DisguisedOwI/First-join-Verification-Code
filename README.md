@@ -19,7 +19,7 @@ The current spawn point is at `0 100 0`.
 /scoreboard players reset <username> verified
 ```
 and restart the server.
-- Or the pro tips ban them by run the following command:
+- Or the pro tips move is ban them by run the following command:
 ```
 /ban <username>
 ```
