@@ -12,13 +12,14 @@ The current spawn point is at `0 100 0`.
 
 ### Resetting a Player’s Verification Status
 
-* To manually reset a player’s verification status, run the following command:
+- To manually reset a player’s verification status, run the following command:
 
 ```
 /scoreboard players reset <username> verified
 ```
+and restart the server
 
-Useless Details
+### Useless Details
 * Pack format: 48 (Minecraft 1.21.10)
 * Uses scoreboards: `verified`, `verify`, `join_time`
 * Functions are tagged with `load` and `tick` for automatic execution
