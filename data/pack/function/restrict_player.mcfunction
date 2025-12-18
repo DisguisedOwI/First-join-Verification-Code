@@ -1,8 +1,8 @@
 # Apply restrictions to unverified players
 
-# Set to adventure mode - Fix is so you tp to spawn points ###############################################
+# Set to adventure mode
+# Note: I was thinking of adding spectator mode instead But I don't know how it would work when you can teleport to players.
 gamemode adventure @s 
-###############################################
 tp @s 0 -100 0
 
 
