@@ -18,7 +18,7 @@ The current spawn point is at `0 100 0`.
 /scoreboard players reset <username> verified
 ```
 
-Technical Details
+Useless Details
 * Pack format: 48 (Minecraft 1.21.10)
 * Uses scoreboards: `verified`, `verify`, `join_time`
 * Functions are tagged with `load` and `tick` for automatic execution
